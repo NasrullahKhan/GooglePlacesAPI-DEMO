@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-GooglePlacesAPI-DEMO.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-GooglePlacesAPI-DEMOTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-GooglePlacesAPI-DEMOUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>ADA0A3D6B11422DEF7DCA507905E30AA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D6AC62C26D1BCE2F67CA651F57FB08F4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E6BCAAD280766F14FBC1D00EEBE47105</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
